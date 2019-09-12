@@ -2,7 +2,7 @@
 // @name         Thom's Tampermonkey Utilities
 // @author       Thom Smith
 // @description  Utility functions for other scripts
-// @match        *
+// @match        *://*/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
