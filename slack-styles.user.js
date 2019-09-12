@@ -1,5 +1,7 @@
 // ==UserScript==
-// @name         Slack dark mode tweaks
+// @name         Slack Styles
+// @author       Thom Smith
+// @description  Custom styles for Slack
 // @match        https://app.slack.com/*
 // @grant        none
 // ==/UserScript==
